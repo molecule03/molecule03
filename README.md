@@ -1,4 +1,4 @@
- <a href="https://in.linkedin.com/in/moelcule03">
+ <a href="https://in.linkedin.com/in/moelcule03/">
     <img align="left" alt="Lavesh Salaskar. | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
  <a href="https://www.instagram.com/molecules03">
@@ -14,9 +14,12 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> 
 
 
-- 🔭 I’m currently ... A Final year Graduate
-- 🌱 I’m currently deep diving ... Java 
-- 💬 Ask me about ... Anything 
+
+Currently focusing on Android Development
+- 🔭 Final year Engineering student
+- 💬 Passionate about learning new technologies...... Enjoys experimenting with different things
+- 🌱 Right now I am getting my hands dirty with Android Development
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Stats #
