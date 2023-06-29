@@ -4,7 +4,7 @@
  <a href="https://www.instagram.com/molecules03">
     <img align="left" alt="Lavesh Salaskar. | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
  </a>
-  <a href="mailtoe:laveshsalaskar619@gmail.com">
+  <a href="mailto:laveshsalaskar619@gmail.com">
     <img align="left" alt="Lavesh Salaskar. | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a>
  <br>
@@ -14,8 +14,6 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> 
 
 
-
-Currently focusing on Android Development
 - 🔭 Final year Engineering student
 - 💬 Passionate about learning new technologies...... Enjoys experimenting with different things
 - 🌱 Right now I am getting my hands dirty with Android Development
