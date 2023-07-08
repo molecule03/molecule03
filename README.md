@@ -1,4 +1,4 @@
- <a href="https://in.linkedin.com/in/moelcule03">
+ <a href="https://www.linkedin.com/in/moelcule03">
     <img align="left" alt="Lavesh Salaskar. | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
  <a href="https://www.instagram.com/molecules03">
