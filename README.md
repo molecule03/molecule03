@@ -15,7 +15,7 @@
 
 
 - 🔭 Final year Engineering student
-- 💬 Passionate about learning new technologies... Enjoys experimenting with different things
+- 💬 Passionate about learning new technologies... Enjoys experimenting with different things.
 - 🌱 Right now I am getting my hands dirty with Android Development
 
 
