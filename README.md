@@ -10,6 +10,7 @@
   <a href="mailto:laveshsalaskar619@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </p>
 
 <p align="center">
