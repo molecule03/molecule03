@@ -45,6 +45,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=molecule03&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="25em" src="https://komarev.com/ghpvc/?username=molecule03&label=PROFILE+VIEWS&color=blue&style=plastic" />
+</p>
+
 <div align="center">
   <h2>Show some ❤️ by starring some of the repositories!</h2>
 </div>
