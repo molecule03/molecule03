@@ -14,6 +14,7 @@
 <p align="center">
   <em>Final year Engineering student | Passionate about learning new technologies</em>
   <br>
+  
   <em>Enjoys experimenting with different things | Android Developer</em>
 </p>
 <h2 align="center">🚀 Coding Profiles</h2>
