@@ -35,8 +35,6 @@
     <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
-
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
