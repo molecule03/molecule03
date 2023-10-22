@@ -15,7 +15,6 @@
   <br>
   <em>Enjoys experimenting with different things | Android Developer</em>
 </p>
-
 <h2 align="center">🚀 Coding Profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/molecule03/">
