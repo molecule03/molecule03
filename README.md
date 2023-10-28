@@ -30,7 +30,6 @@
     <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
 <h2 align="center">📊 Stats</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=molecule03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
