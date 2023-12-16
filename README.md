@@ -27,7 +27,6 @@
   <a href="https://www.codechef.com/users/molecule03">
     <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  
   <a href="https://codeforces.com/profile/molecule03">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
@@ -40,8 +39,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=molecule03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molecule03&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=molecule03&hide_border=true" />
