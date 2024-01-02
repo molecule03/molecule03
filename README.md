@@ -10,12 +10,13 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  
 </p>
-
 <p align="center">
   <em>Final year Engineering student | Passionate about learning new technologies</em>
   <br>
   <em>Enjoys experimenting with different things | Android Developer</em>
 </p>
+
+
 <h2 align="center">🚀 Coding Profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/molecule03/">
